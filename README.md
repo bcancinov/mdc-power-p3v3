@@ -1,9 +1,10 @@
 # mdc-power-p3v3
-Modular Detector Controller Power 3.3V DC-DC Module
+Modular Detector Controller Power 3.3V DC-DC Mezzanine Module
 
 ## Overview
 12V input to 3.3V output DC-DC module, 8A nominal output, used as one of the `mdc-power-*` bias rails.
 Designed for 2 MHz sync operation.
+Mezzanine module.
 
 ## Power Stage
 - Controller: `LT8627SP` (`U1`)
