@@ -2177,7 +2177,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "f088fb3c-3e15-469e-a14f-944c6146f7d8")
+			(uuid "c1c97e2f-c0b3-4e94-8fcd-8673450ca9da")
 		)
 		(pad "1" thru_hole circle
 			(at -1.697056 1.697056)
@@ -2189,7 +2189,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "f088fb3c-3e15-469e-a14f-944c6146f7d8")
+			(uuid "d52cdee6-f4ec-4e79-ad15-a54d6580fc4e")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -2.4)
@@ -2201,7 +2201,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "f088fb3c-3e15-469e-a14f-944c6146f7d8")
+			(uuid "89c28f9c-2dda-471e-b123-f8f8da904fc4")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -2213,7 +2213,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "f088fb3c-3e15-469e-a14f-944c6146f7d8")
+			(uuid "ade047e5-717e-437d-afa4-b768055b6656")
 		)
 		(pad "1" thru_hole circle
 			(at 0 2.4)
@@ -2225,7 +2225,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "f088fb3c-3e15-469e-a14f-944c6146f7d8")
+			(uuid "ecba052f-aeb7-43c6-896a-6a865b13f67a")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 -1.697056)
@@ -2237,7 +2237,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "f088fb3c-3e15-469e-a14f-944c6146f7d8")
+			(uuid "ad49a657-4515-48b4-a0ff-7f5ac80b6a41")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 1.697056)
@@ -2249,7 +2249,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "f088fb3c-3e15-469e-a14f-944c6146f7d8")
+			(uuid "bc50b622-9dbf-49cc-a139-aefb43a318ef")
 		)
 		(pad "1" thru_hole circle
 			(at 2.4 0)
@@ -2261,7 +2261,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "f088fb3c-3e15-469e-a14f-944c6146f7d8")
+			(uuid "8a7d4306-a9e1-4c5e-b7c4-4c09b1973474")
 		)
 		(embedded_fonts no)
 	)
@@ -2639,7 +2639,7 @@
 				)
 			)
 		)
-		(property "Description" "33.2 kOhms ±1% 0.125W, 1/8W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+		(property "Description" "33 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2651,7 +2651,7 @@
 				)
 			)
 		)
-		(property "M" "Vishay"
+		(property "M" "Panasonic"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2664,7 +2664,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW060333K2FKEA"
+		(property "MPN" "ERA-3AEB333V"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4582,7 +4582,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "931ba398-a20a-4e5e-9699-391c3bac2561")
+			(uuid "1f9a6024-cb41-4b42-9073-0d5335b1abc0")
 		)
 		(pad "1" thru_hole circle
 			(at -1.697056 1.697056)
@@ -4594,7 +4594,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "931ba398-a20a-4e5e-9699-391c3bac2561")
+			(uuid "c234454a-c965-45e2-b9ad-f5a20fe6a541")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -2.4)
@@ -4606,7 +4606,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "931ba398-a20a-4e5e-9699-391c3bac2561")
+			(uuid "44e952f8-410b-414e-949b-64322bf09d66")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -4618,7 +4618,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "931ba398-a20a-4e5e-9699-391c3bac2561")
+			(uuid "47d42292-a2ec-4f4a-b0f4-57b4aaf7d418")
 		)
 		(pad "1" thru_hole circle
 			(at 0 2.4)
@@ -4630,7 +4630,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "931ba398-a20a-4e5e-9699-391c3bac2561")
+			(uuid "40021f5a-a387-497a-8eff-2523131afcab")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 -1.697056)
@@ -4642,7 +4642,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "931ba398-a20a-4e5e-9699-391c3bac2561")
+			(uuid "8161a0a3-bf92-4c1d-84af-ce15777763ce")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 1.697056)
@@ -4654,7 +4654,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "931ba398-a20a-4e5e-9699-391c3bac2561")
+			(uuid "a8ae02af-e6f6-4bca-8dc8-511624acb733")
 		)
 		(pad "1" thru_hole circle
 			(at 2.4 0)
@@ -4666,7 +4666,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "931ba398-a20a-4e5e-9699-391c3bac2561")
+			(uuid "3457ed5d-ce8d-4928-b487-4a6fc1aefbb7")
 		)
 		(embedded_fonts no)
 	)

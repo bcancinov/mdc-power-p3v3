@@ -6657,7 +6657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "33.2 kOhms ±1% 0.125W, 1/8W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+		(property "Description" "33 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 			(at 105.41 97.79 0)
 			(effects
 				(font
@@ -6666,7 +6666,7 @@
 				(hide yes)
 			)
 		)
-		(property "M" "Vishay"
+		(property "M" "Panasonic"
 			(at 105.41 97.79 0)
 			(effects
 				(font
@@ -6675,7 +6675,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW060333K2FKEA"
+		(property "MPN" "ERA-3AEB333V"
 			(at 105.41 97.79 0)
 			(effects
 				(font

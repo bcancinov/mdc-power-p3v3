@@ -12,7 +12,7 @@
 "R1","1","CRCW060310K0FKEA","Vishay","10 kOhms ±1% 0.125W, 1/8W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R2","1","CRCW06031K78FKEA","Vishay","1.78 kOhms ±1% 0.125W, 1/8W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R3","1","CRCW06031K00FKEA","Vishay","1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R4","1","CRCW060333K2FKEA","Vishay","33.2 kOhms ±1% 0.125W, 1/8W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R4","1","ERA-3AEB333V","Panasonic","33 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 "R5","1","CRCW060347K5FKEA","Vishay","47.5 kOhms ±1% 0.125W, 1/8W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R6,R7","2","RCWE0603R500FKEA","Vishay","500 mOhms ±1% 0.2W, 1/5W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Current Sense, Moisture Resistant Thick Film"
 "U1","1","LT8627SPJV#TRPBF","Analog","Buck Switching Regulator IC Positive Adjustable 1 Output 16A 24-TFQFN Exposed Pad"
